@@ -1,5 +1,5 @@
 0) IMPORTANT! increate the version number in SDSAppUpdate.cs first and compile new code
-1) Place all new files into `SDSBase` and zip that into a `SDSUpdate.zip`
+1) Place all new files into `SDSBase`(NB is needs to be in the SDSBase folder and not SDSUpdate) and zip that into a `SDSUpdate.zip`
 2) Just put all the new files in there, it copy all of that into the project base folder overriding existing files.
 
 Yeah, at some point I might need to make script to remove unused files
