@@ -1,5 +1,3 @@
 # SeriousDownSyndromer
-DOT
-LALALALALA
-w ewe we we we we we we we 
-I dont see the new changes here?
+To release push new code to master.
+The in Powershell run `gh release create` and follow prompts
