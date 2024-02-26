@@ -1,48 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2.appinstaller"
-	Version="1.0.4.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.5.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="7322f63e-a3fc-4092-a8b8-8ca059285ca4"
-		Version="1.0.4.0"
+		Version="1.0.5.0"
 		Publisher="CN=sds"
-		Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.4.0_Test/SDSv2_1.0.4.0_x86_x64.msixbundle" />
+		Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.5.0_Test/SDSv2_1.0.5.0_x86_x64.msixbundle" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.UI.Xaml.2.8"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x86"
-			Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.4.0_Test/Dependencies/x86/Microsoft.UI.Xaml.2.8.appx"
+			Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.5.0_Test/Dependencies/x86/Microsoft.UI.Xaml.2.8.appx"
 			Version="8.2207.14002.0" />
 		<Package
 			Name="Microsoft.UI.Xaml.2.8"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.4.0_Test/Dependencies/x64/Microsoft.UI.Xaml.2.8.appx"
+			Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.5.0_Test/Dependencies/x64/Microsoft.UI.Xaml.2.8.appx"
 			Version="8.2207.14002.0" />
 		<Package
 			Name="Microsoft.VCLibs.140.00.UWPDesktop"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.4.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.Desktop.appx"
+			Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.5.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.Desktop.appx"
 			Version="14.0.30704.0" />
 		<Package
 			Name="Microsoft.VCLibs.140.00.UWPDesktop"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x86"
-			Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.4.0_Test/Dependencies/x86/Microsoft.VCLibs.x86.14.00.Desktop.appx"
+			Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.5.0_Test/Dependencies/x86/Microsoft.VCLibs.x86.14.00.Desktop.appx"
 			Version="14.0.30704.0" />
 		<Package
 			Name="Microsoft.VCLibs.140.00"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.4.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.appx"
+			Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.5.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.appx"
 			Version="14.0.30704.0" />
 		<Package
 			Name="Microsoft.VCLibs.140.00"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x86"
-			Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.4.0_Test/Dependencies/x86/Microsoft.VCLibs.x86.14.00.appx"
+			Uri="https://github.com/UnseenTimer/SeriousDownSyndromer/raw/master/SDS2/SDSv2_1.0.5.0_Test/Dependencies/x86/Microsoft.VCLibs.x86.14.00.appx"
 			Version="14.0.30704.0" />
 	</Dependencies>
 	<UpdateSettings>
